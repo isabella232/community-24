@@ -6,7 +6,7 @@ Welcome to the MongoDB community repo! This repo includes content for [MongoDB U
 
 The MUG Download Program helps organizers around the globe and includes the following content:
 
-- Presentations and notes: We release new content periodically in the [MUG Download](MUG Download) folder for you to share with your user group.
+- Presentations and notes: We release new content periodically in the [MUG Download](https://github.com/mongodb/community/tree/master/MUG%20Download) folder for you to share with your user group.
 - [Digital survey](http://database.mongodb.com/community-survey): This survey creates a feedback loop between your members and MongoDB and helps us improve the content we provide.
 - Best practices: We've gathered best practices from community leaders on organizing great MUGs into a [MUG guide](https://www.mongodb.org/community/playbook).
 - Support from MongoDB: We can help coordinate MongoDB engineers, customers, and partners to speak at your MUG.
