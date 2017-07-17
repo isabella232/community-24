@@ -1,4 +1,4 @@
-#MongoDB Community Repository
+# MongoDB Community Repository
 
 Welcome to the MongoDB community repo! This repo includes content for MongoDB User Group (MUG) organizers. MUGs are intended for networking and collaboration for people who who share an interest in development and operations best practices with MongoDB.
 
