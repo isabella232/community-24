@@ -4,4 +4,4 @@ Welcome to the MongoDB community repo! This repo includes content for [MongoDB U
 
 ## MUG Files
 
-You can find current year decks in the "Decks" directory.  These are general purpose Presentations you can personalize for meetups or other events in which you'd like to share about MongoDB.
+You can find current year decks in the ["Decks"](https://github.com/mongodb/community/tree/master/MUG%20Download/Decks) directory.  These are general purpose Presentations you can personalize for meetups or other events in which you'd like to share about MongoDB.
