@@ -1,6 +1,15 @@
 # MongoDB Community Repository
 
-Welcome to the MongoDB community repo! This repo includes content for [MongoDB User Group (MUG)](https://www.meetup.com/pro/mongodb/) organizers. MUGs are intended for networking and collaboration for people who who share an interest in development and operations best practices with MongoDB.
+
+
+Welcome to the MongoDB community repo! This repository will contain community resources such as code samples decks for presentations and other community tools vailable to users.
+
+
+## MongoDB MUGS
+
+This repo includes content for [MongoDB User Group (MUG)](https://www.meetup.com/pro/mongodb/) organizers. 
+
+MUGs are intended for networking and collaboration for people who who share an interest in development and operations best practices with MongoDB.
 
 ## MUG Files
 
