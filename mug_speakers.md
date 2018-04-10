@@ -14,7 +14,7 @@ Please select up to 3 months that work for you.
 Implementation of MongoDB products along side a process or application. Interesting subjects include: Change Streams, Document Validation, Stitch/Javascript, etc.
 
 Examples of interesting talks
-- [Nick Patrick: Radar]()
+- [Nick Patrick: Radar](https://www.youtube.com/watch?v=x9XRRiLjWM8)
 
 ## When are speakers chosen?
 Speakers will be chosen at least 30 days prior to speaking date.
