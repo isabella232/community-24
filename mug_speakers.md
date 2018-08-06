@@ -5,7 +5,7 @@ Any member of the MongoDB community interested in sharing what they know or how 
 
 ## How do I submit a talk?
 Create a new issue using one of the templates below:
-- [Speak at a New York MUG](https://github.com/mongodb/community/issues/new?template=mug_nyc.md&labels=NYC&assignee=jaydestro)
+- [Speak at a New York MUG](https://github.com/mongodb/community/issues/new?template=mug_nyc.md&labels=NYC&assignee=aydrian)
 - [Speak at a Philadelphia MUG](https://github.com/mongodb/community/issues/new?template=mug_phl.md&labels=PHL&assignee=mrlynn)
 
 Please select up to 3 months that work for you.
